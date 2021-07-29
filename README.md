@@ -9,4 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [GitHub Action build not running on main&#x2F;master](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;07&#x2F;github-actions-not-running.html)
+* [UniFi Controller on a Synology](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;07&#x2F;synology-unifi.html)
+* [Passed AZ-204](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;07&#x2F;passed-az-204.html)
+* [Which Western Digital Red 4TB NAS hard disk should I buy?](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;07&#x2F;ws-red-nas-hdd.html)
+* [GitHub Actions default environment variable gotcha](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;07&#x2F;github-actions-default-environment-variables.html)
 <!--END_SECTION:posts-->
