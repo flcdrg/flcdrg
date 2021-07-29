@@ -5,3 +5,8 @@ I've been been creating software for over 25 years. I have a passion for continu
 Based in Adelaide, South Australia, I works as a Senior Developer at [SixPivot](https://www.sixpivot.com.au). In my spare time I contribute to numerous open source projects, and am a package moderator at [Chocolatey.org](https://chocolatey.org)
 
 I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and tweet at [@DavidRGardiner](https://twitter.com/DavidRGardiner).
+
+## Recent blog posts
+
+<!--START_SECTION:posts-->
+<!--END_SECTION:posts-->
