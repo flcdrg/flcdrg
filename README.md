@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [STEPtember 2021](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;09&#x2F;steptember.html)
 * [Azure Functions - Enable specific functions for debugging](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;08&#x2F;azure-functions-specific-functions.html)
 * [GitHub Action build not running on main&#x2F;master](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;07&#x2F;github-actions-not-running.html)
 * [UniFi Controller on a Synology](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;07&#x2F;synology-unifi.html)
 * [Passed AZ-204](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;07&#x2F;passed-az-204.html)
-* [Which Western Digital Red 4TB NAS hard disk should I buy?](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;07&#x2F;ws-red-nas-hdd.html)
 <!--END_SECTION:posts-->
