@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [What’s new in Visual Studio 2022](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;10&#x2F;visual-studio-2022.html)
 * [The fastest Contains() in .NET - Part 2](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;10&#x2F;fastest-contains2.html)
 * [The fastest Contains() in .NET](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;10&#x2F;fastest-contains.html)
 * [Azure Resource Namer tool](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;10&#x2F;azure-resource-namer.html)
 * [STEPtember 2021](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;09&#x2F;steptember.html)
-* [Azure Functions - Enable specific functions for debugging](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;08&#x2F;azure-functions-specific-functions.html)
 <!--END_SECTION:posts-->
