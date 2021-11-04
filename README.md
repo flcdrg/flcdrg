@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [What’s new in .NET 6](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;11&#x2F;dotnet-6.html)
 * [What’s new in MAUI](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;11&#x2F;maui.html)
 * [What’s new in EF Core 6](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;11&#x2F;ef-core-6.html)
 * [What’s new in ASP.NET Core 6](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;11&#x2F;aspnet-core-6.html)
 * [What’s new in C# 10](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;10&#x2F;csharp-10.html)
-* [What’s new in Visual Studio 2022](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;10&#x2F;visual-studio-2022.html)
 <!--END_SECTION:posts-->
