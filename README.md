@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Upgrading a Synology to DSM 7.0.1](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;01&#x2F;dsm-7.html)
 * [Upgrading to a new iPhone SE](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;01&#x2F;iphone-se.html)
 * [Running Speedtest on a Synology NAS](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;01&#x2F;synology-speedtest.html)
 * [Farewell 2021, Hello 2022](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;01&#x2F;farewell-hello.html)
 * [Summer holiday reading](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;12&#x2F;summer-holiday-reading.html)
-* [What’s new in .NET 6](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2021&#x2F;11&#x2F;dotnet-6.html)
 <!--END_SECTION:posts-->
