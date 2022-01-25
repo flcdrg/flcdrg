@@ -9,7 +9,7 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
-* [Blog post title](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;01&#x2F;speaking-at-dotnet-conference.html)
+* [Speaking at .NET Conference 2022](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;01&#x2F;speaking-at-dotnet-conference.html)
 * [RODE NTUSB Microphone and PSA1 Boom Stand](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;01&#x2F;rode-mic-and-stand.html)
 * [Upgrading a Synology to DSM 7.0.1](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;01&#x2F;dsm-7.html)
 * [Upgrading to a new iPhone SE](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;01&#x2F;iphone-se.html)
