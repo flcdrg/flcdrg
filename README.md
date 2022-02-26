@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Failed to renew Microsoft Certified: Azure Developer Associate](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;02&#x2F;failed-az-renewal.html)
 * [Passed AZ-400](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;02&#x2F;passed-az400.html)
 * [Happy 20th Birthday .NET!](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;02&#x2F;dotnet-anniversary.html)
 * [Don’t let me be misunderstood](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;02&#x2F;misunderstood.html)
 * [One year at SixPivot](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;02&#x2F;a-year-at-sixpivot.html)
-* [Are your photos safe?](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;01&#x2F;lost-photos.html)
 <!--END_SECTION:posts-->
