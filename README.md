@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Fixing my blog (part 5) - Putting it all together with a PR](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;04&#x2F;blog-fix-part5.html)
 * [Fixing my blog (part 4) - Updating the files](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;04&#x2F;blog-fix-part4.html)
 * [Fixing my blog (part 3) - Querying the Wayback Machine](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;04&#x2F;blog-fix-part3.html)
 * [Fixing my blog (part 2) - Broken links](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;04&#x2F;blog-fix-part2.html)
 * [Fixing my blog (part 1) - Introduction](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;04&#x2F;blog-fix-part1.html)
-* [Snapshot testing Verify.MongoDB](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;03&#x2F;verify-mongodb.html)
 <!--END_SECTION:posts-->
