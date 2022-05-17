@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Migrating away from Google G Suite Legacy free edition (part 3)](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;05&#x2F;leaving-g-suite-legacy-part3.html)
 * [Migrating away from Google G Suite Legacy free edition (part 2)](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;05&#x2F;leaving-g-suite-legacy-partt2.html)
 * [Migrating away from Google G Suite Legacy free edition](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;05&#x2F;leaving-g-suite-legacy.html)
 * [ADNUG Survey 2022 Results](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;05&#x2F;adnug-survey.html)
 * [Fixing my blog (part 6) - Accessibility scanning](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;04&#x2F;blog-fix-part6.html)
-* [Fixing my blog (part 5) - Putting it all together with a PR](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;04&#x2F;blog-fix-part5.html)
 <!--END_SECTION:posts-->
