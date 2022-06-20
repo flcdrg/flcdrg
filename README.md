@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [UniFi USW Flex Mini 5-port switch](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;06&#x2F;unifi-usw-flex-mini-5-port.html)
 * [Podcasts 2022](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;06&#x2F;podcasts-2022.html)
 * [Migrating away from Google G Suite Legacy free edition (part 3)](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;05&#x2F;leaving-g-suite-legacy-part3.html)
 * [Migrating away from Google G Suite Legacy free edition (part 2)](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;05&#x2F;leaving-g-suite-legacy-partt2.html)
 * [Migrating away from Google G Suite Legacy free edition](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;05&#x2F;leaving-g-suite-legacy.html)
-* [ADNUG Survey 2022 Results](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;05&#x2F;adnug-survey.html)
 <!--END_SECTION:posts-->
