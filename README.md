@@ -9,7 +9,7 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
-* [7 years being an Microsoft MVP](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;07&#x2F;mvp-renewed.html)
+* [7 years being a Microsoft MVP](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;07&#x2F;mvp-renewed.html)
 * [Passing variables between Azure Pipelines stages, jobs and deployment jobs](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;06&#x2F;azure-pipelines-variables.html)
 * [UniFi USW Flex Mini 5-port switch](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;06&#x2F;unifi-usw-flex-mini-5-port.html)
 * [Podcasts 2022](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;06&#x2F;podcasts-2022.html)
