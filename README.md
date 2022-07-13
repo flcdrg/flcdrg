@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Amazon Prime Day 2022](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;07&#x2F;amazon-prime-day.html)
 * [Upgrading to Windows 11 22H2 on the Release Preview channel](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;07&#x2F;upgrading-to-windows11.html)
 * [7 years being a Microsoft MVP](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;07&#x2F;mvp-renewed.html)
 * [Passing variables between Azure Pipelines stages, jobs and deployment jobs](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;06&#x2F;azure-pipelines-variables.html)
 * [UniFi USW Flex Mini 5-port switch](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;06&#x2F;unifi-usw-flex-mini-5-port.html)
-* [Podcasts 2022](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;06&#x2F;podcasts-2022.html)
 <!--END_SECTION:posts-->
