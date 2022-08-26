@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Trigger an Azure Pipeline build from a ‘Classic’ release pipeline](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;08&#x2F;trigger-yaml-from-classic-release-pipelines.html)
 * [Using script variables in Azure Release Pipelines](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;08&#x2F;azure-release-pipeline-script-variables.html)
 * [SixPivot Summit 2022](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;08&#x2F;sixpivot-summit.html)
 * [Building and using Azure Pipelines Container Jobs](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;07&#x2F;azure-pipelines-container-jobs.html)
 * [Amazon Prime Day 2022](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;07&#x2F;amazon-prime-day.html)
-* [Upgrading to Windows 11 22H2 on the Release Preview channel](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;07&#x2F;upgrading-to-windows11.html)
 <!--END_SECTION:posts-->
