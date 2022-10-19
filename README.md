@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Adding a disk to a Synology with DSM 7.1](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;10&#x2F;synology-adding-disk.html)
 * [Azure Pipelines Service Containers and ports](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;09&#x2F;azure-pipelines-service-containers.html)
 * [Converting Azure Pipelines Variable Groups to YAML](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;09&#x2F;azure-pipelines-variable-groups-to-yaml.html)
 * [STEPtember 2022](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;09&#x2F;steptember-2022.html)
 * [Trigger an Azure Pipeline build from a ‘Classic’ release pipeline](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;08&#x2F;trigger-yaml-from-classic-release-pipelines.html)
-* [Using script variables in Azure Release Pipelines](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;08&#x2F;azure-release-pipeline-script-variables.html)
 <!--END_SECTION:posts-->
