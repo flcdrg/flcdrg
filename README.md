@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Looking back at 2022](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;12&#x2F;year-in-review.html)
 * [Important changes for Azure DevOps Pipeline agents and GitHub Actions runners](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;12&#x2F;agent-changes.html)
 * [Logitech MX Vertical Advanced Ergonomic Mouse](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;11&#x2F;logitech-mx-vertical.html)
 * [Elgato Green Screen MT](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;11&#x2F;elgato-green-mt.html)
 * [Hello Mastadon, not quite goodbye Twitter](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;11&#x2F;hello-mastodon.html)
-* [Adding a disk to a Synology with DSM 7.1](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;10&#x2F;synology-adding-disk.html)
 <!--END_SECTION:posts-->
