@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Get a list of Azure Pipelines and YAML files](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2023&#x2F;02&#x2F;list-azure-pipelines-and-yaml.html)
 * [2 years at SixPivot](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2023&#x2F;02&#x2F;two-years-sixpivot.html)
 * [Provision an Azure Virtual Machine with Terraform Cloud](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2023&#x2F;01&#x2F;azure-vm-terraform.html)
 * [Looking back at 2022](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;12&#x2F;year-in-review.html)
 * [Important changes for Azure DevOps Pipeline agents and GitHub Actions runners](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;12&#x2F;agent-changes.html)
-* [Logitech MX Vertical Advanced Ergonomic Mouse](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2022&#x2F;11&#x2F;logitech-mx-vertical.html)
 <!--END_SECTION:posts-->
