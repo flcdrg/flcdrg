@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [HashiCorp Certified: Terraform Associate (003)](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2023&#x2F;07&#x2F;passed-terraform-associate.html)
 * [Azure DevOps API PropertiesCollections](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2023&#x2F;06&#x2F;propertycollection.html)
 * [New laptop - Dell XPS 9530](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2023&#x2F;04&#x2F;new-laptop.html)
 * [Finding free subnets in an Azure Virtual Network](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2023&#x2F;04&#x2F;find-freesubnets.html)
 * [Get a list of Azure Pipelines and YAML files](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2023&#x2F;02&#x2F;list-azure-pipelines-and-yaml.html)
-* [2 years at SixPivot](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2023&#x2F;02&#x2F;two-years-sixpivot.html)
 <!--END_SECTION:posts-->
