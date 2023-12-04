@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Migrating deprecated Terraform resources](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2023&#x2F;12&#x2F;migrate-terraform-resources.html)
 * [Terraform command ‘init’ failed with exit code ‘1’](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2023&#x2F;11&#x2F;terraform-init-error.html)
 * [DDD Adelaide 2023 done](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2023&#x2F;11&#x2F;ddd-adelaide-2023-done.html)
 * [Converting a Vagrant VirtualBox .box file to Hyper-V](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2023&#x2F;10&#x2F;vagrant-virtualbox-hyperv.html)
 * [DDD Adelaide is back for 2023](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2023&#x2F;08&#x2F;ddd-adelaide-2023.html)
-* [HashiCorp Certified: Terraform Associate (003)](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2023&#x2F;07&#x2F;passed-terraform-associate.html)
 <!--END_SECTION:posts-->
