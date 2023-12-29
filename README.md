@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Apple TV 4K with Ethernet](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2023&#x2F;12&#x2F;apple-tv-4k.html)
 * [Migrating deprecated Terraform resources (part 2)](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2023&#x2F;12&#x2F;migrate-terraform-resources-part2.html)
 * [Migrating deprecated Terraform resources](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2023&#x2F;12&#x2F;migrate-terraform-resources.html)
 * [Terraform command ‘init’ failed with exit code ‘1’](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2023&#x2F;11&#x2F;terraform-init-error.html)
 * [DDD Adelaide 2023 done](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2023&#x2F;11&#x2F;ddd-adelaide-2023-done.html)
-* [Converting a Vagrant VirtualBox .box file to Hyper-V](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2023&#x2F;10&#x2F;vagrant-virtualbox-hyperv.html)
 <!--END_SECTION:posts-->
