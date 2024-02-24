@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Laptop heat wave](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;02&#x2F;hot-laptop.html)
 * [ADNUG Streaming struggles](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;02&#x2F;streaming-struggles.html)
 * [3 years at SixPivot](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;02&#x2F;three-years-sixpivot.html)
 * [Source Link improvements in .NET 8 SDK](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;01&#x2F;dotnet8-source-link.html)
 * [Azure Function posting an RSS feed to Mastodon](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;01&#x2F;cfs-azure-function.html)
-* [Apple TV 4K with Ethernet](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2023&#x2F;12&#x2F;apple-tv-4k.html)
 <!--END_SECTION:posts-->
