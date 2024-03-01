@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [C# 12 features: Primary constructors](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;03&#x2F;primary-constructors.html)
 * [Which Western Digital Red NAS hard disk should I buy? (2024 update)](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;02&#x2F;wd-red-nas.html)
 * [Laptop heat wave](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;02&#x2F;hot-laptop.html)
 * [ADNUG Streaming struggles](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;02&#x2F;streaming-struggles.html)
 * [3 years at SixPivot](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;02&#x2F;three-years-sixpivot.html)
-* [Source Link improvements in .NET 8 SDK](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;01&#x2F;dotnet8-source-link.html)
 <!--END_SECTION:posts-->
