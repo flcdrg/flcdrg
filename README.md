@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Automatic updating of Chocolatey packages with .NET](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;03&#x2F;au-dotnet.html)
 * [Microsoft MVP Summit 2024](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;03&#x2F;mvp-summit-2024.html)
 * [C# 12 features: Interceptors](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;03&#x2F;interceptors.html)
 * [C# 12 features: ExperimentalAttribute](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;03&#x2F;experimental-attribute.html)
 * [C# 12 features: Inline arrays](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;03&#x2F;inline-arrays.html)
-* [C# 12 features: Using aliases](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;03&#x2F;aliases.html)
 <!--END_SECTION:posts-->
