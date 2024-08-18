@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and twe
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Farewell Internode, hello Leaptel](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;08&#x2F;leaptel.html)
 * [ASP.NET Core ‘Development’ Environment confusion](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;05&#x2F;aspnet-development-environments.html)
 * [Docker run from an Azure Pipeline Container Job with a volume mount](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;05&#x2F;docker-run-mount.html)
 * [Pasting Markdown into Confluence](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;04&#x2F;paste-markdown-confluence.html)
 * [Automatic updating of Chocolatey packages with .NET](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;03&#x2F;au-dotnet.html)
-* [Microsoft MVP Summit 2024](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;03&#x2F;mvp-summit-2024.html)
 <!--END_SECTION:posts-->
