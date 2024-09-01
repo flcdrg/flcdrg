@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and am 
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [FTTP (part 2)](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;09&#x2F;fttp2.html)
 * [Farewell FTTN, Hello FTTP](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;08&#x2F;fttp.html)
 * [Farewell Internode, hello Leaptel](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;08&#x2F;leaptel.html)
 * [ASP.NET Core ‘Development’ Environment confusion](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;05&#x2F;aspnet-development-environments.html)
 * [Docker run from an Azure Pipeline Container Job with a volume mount](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;05&#x2F;docker-run-mount.html)
-* [Pasting Markdown into Confluence](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;04&#x2F;paste-markdown-confluence.html)
 <!--END_SECTION:posts-->
