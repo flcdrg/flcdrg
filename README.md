@@ -12,6 +12,6 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and am 
 * [FTTP (part 2)](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;09&#x2F;fttp2.html)
 * [Farewell FTTN, Hello FTTP](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;08&#x2F;fttp.html)
 * [Farewell Internode, hello Leaptel](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;08&#x2F;leaptel.html)
-* [ASP.NET Core ‘Development’ Environment confusion](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;05&#x2F;aspnet-development-environments.html)
+* [ASP.NET Core &#39;Development&#39; Environment confusion](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;05&#x2F;aspnet-development-environments.html)
 * [Docker run from an Azure Pipeline Container Job with a volume mount](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;05&#x2F;docker-run-mount.html)
 <!--END_SECTION:posts-->
