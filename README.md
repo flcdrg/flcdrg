@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and am 
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [DDD Brisbane 2024](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;12&#x2F;ddd-brisbane.html)
 * [DDD Adelaide 2024](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;11&#x2F;ddd-adelaide-2024.html)
 * [FTTP (part 2)](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;09&#x2F;fttp2.html)
 * [Farewell FTTN, Hello FTTP](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;08&#x2F;fttp.html)
 * [Farewell Internode, hello Leaptel](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;08&#x2F;leaptel.html)
-* [ASP.NET Core &#39;Development&#39; Environment confusion](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;05&#x2F;aspnet-development-environments.html)
 <!--END_SECTION:posts-->
