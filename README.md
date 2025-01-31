@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and am 
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Passing arguments to npm in PowerShell](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;01&#x2F;npm-and-powershell.html)
 * [Blog engine thoughts](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;01&#x2F;blog-engines.html)
 * [The biggest problem with CI&#x2F;CD pipelines](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;01&#x2F;biggest-problem.html)
 * [2024 in review](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;12&#x2F;year-in-review.html)
 * [.NET Code Coverage in Azure DevOps and SonarCloud](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;12&#x2F;sonarcloud.html)
-* [DDD Brisbane 2024](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2024&#x2F;12&#x2F;ddd-brisbane.html)
 <!--END_SECTION:posts-->
