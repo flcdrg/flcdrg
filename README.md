@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and am 
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Changing the Windows touchpad settings programmatically](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;04&#x2F;touchpad-settings.html)
 * [Customising and optimising Windows 11 installation](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;04&#x2F;reinstalling-laptop.html)
 * [ConfigureFunctionsWorkerDefaults vs ConfigureFunctionsWebApplication in .NET Azure Functions](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;04&#x2F;azure-function-isolated.html)
 * [DDD Melbourne 2025](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;02&#x2F;ddd-melbourne.html)
 * [Azure SQL and enabling auditing with Terraform](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;02&#x2F;azure-sql-auditing.html)
-* [Why is PowerShell not expanding variables for a command?](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;02&#x2F;powershell-command-arguments.html)
 <!--END_SECTION:posts-->
