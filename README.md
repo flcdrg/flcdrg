@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and am 
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
-* [Edifier MR4 Powered Studio Monitor Speakers](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;04&#x2F;edifier-speakers.html)
-* [Changing the Windows touchpad settings programmatically](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;04&#x2F;touchpad-settings.html)
-* [Customising and optimising Windows 11 installation](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;04&#x2F;reinstalling-laptop.html)
-* [ConfigureFunctionsWorkerDefaults vs ConfigureFunctionsWebApplication in .NET Azure Functions](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;04&#x2F;azure-function-isolated.html)
-* [DDD Melbourne 2025](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;02&#x2F;ddd-melbourne.html)
+* [Edifier MR4 Powered Studio Monitor Speakers](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;04&#x2F;edifier-speakers)
+* [Changing the Windows touchpad settings programmatically](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;04&#x2F;touchpad-settings)
+* [Customising and optimising Windows 11 installation](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;04&#x2F;reinstalling-laptop)
+* [ConfigureFunctionsWorkerDefaults vs ConfigureFunctionsWebApplication in .NET Azure Functions](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;04&#x2F;azure-function-isolated)
+* [DDD Melbourne 2025](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;02&#x2F;ddd-melbourne)
 <!--END_SECTION:posts-->
