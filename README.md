@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and am 
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Passed AZ-104](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;05&#x2F;az-104)
 * [Edifier MR4 Powered Studio Monitor Speakers](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;04&#x2F;edifier-speakers)
 * [Changing the Windows touchpad settings programmatically](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;04&#x2F;touchpad-settings)
 * [Customising and optimising Windows 11 installation](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;04&#x2F;reinstalling-laptop)
 * [ConfigureFunctionsWorkerDefaults vs ConfigureFunctionsWebApplication in .NET Azure Functions](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;04&#x2F;azure-function-isolated)
-* [DDD Melbourne 2025](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;02&#x2F;ddd-melbourne)
 <!--END_SECTION:posts-->
