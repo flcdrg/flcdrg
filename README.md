@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and am 
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [NuGet lock files](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;05&#x2F;nuget-lockfiles)
 * [Import Azure applications into Terraform](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;05&#x2F;adelaide-azure)
 * [BBS](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;05&#x2F;bbs)
 * [Passed AZ-104](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;05&#x2F;az-104)
 * [Edifier MR4 Powered Studio Monitor Speakers](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;04&#x2F;edifier-speakers)
-* [Changing the Windows touchpad settings programmatically](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;04&#x2F;touchpad-settings)
 <!--END_SECTION:posts-->
