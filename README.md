@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and am 
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Migrating my blog to Astro - Content collections](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;06&#x2F;migrating-to-astro-collections)
 * [Migrating my blog to Astro - Separation of code and data](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;06&#x2F;migrating-to-astro-separation)
 * [Migrating my blog to Astro - Planning](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;06&#x2F;migrating-to-astro-planning)
 * [Migrating my blog from Jekyll to Astro](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;06&#x2F;migrating-from-jekyll-to-astro)
 * [NuGet lock files](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;05&#x2F;nuget-lockfiles)
-* [Import Azure applications into Terraform](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;05&#x2F;adelaide-azure)
 <!--END_SECTION:posts-->
