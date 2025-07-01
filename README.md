@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and am 
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Azure Pipeline conditionals](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;06&#x2F;azure-pipeline-conditionals)
 * [Migrating my blog to Astro - Quality](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;06&#x2F;migrating-to-astro-quality)
 * [Migrating my blog to Astro - Sitemap](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;06&#x2F;migrating-to-astro-sitemap)
 * [Migrating my blog to Astro - RSS&#x2F;Atom syndication](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;06&#x2F;migrating-to-astro-rss)
 * [Migrating my blog to Astro - Older posts](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;06&#x2F;migrating-to-astro-older-posts)
-* [Migrating my blog to Astro - Tags](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;06&#x2F;migrating-to-astro-tags)
 <!--END_SECTION:posts-->
