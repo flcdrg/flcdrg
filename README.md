@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and am 
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [In the garden - Winter 2025](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;08&#x2F;in-the-garden)
 * [Verify.Cli - Snapshot testing without tests](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;07&#x2F;verify-cli)
 * [Snapshot testing .NET code with Verify](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;07&#x2F;verify)
 * [Azure Pipelines template expressions](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;07&#x2F;azure-pipeline-template-expression)
 * [Azure Pipeline conditionals](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;06&#x2F;azure-pipeline-conditionals)
-* [Migrating my blog to Astro - Quality](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;06&#x2F;migrating-to-astro-quality)
 <!--END_SECTION:posts-->
