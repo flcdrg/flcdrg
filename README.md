@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and am 
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Introducing Aspire](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;11&#x2F;aspire)
 * [Clean up old .NET installs with the .NET Uninstall Tool](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;10&#x2F;dotnet-uninstall-tool)
 * [Passed AI-102](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;10&#x2F;ai-102)
 * [Podcasts in 2025](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;09&#x2F;podcasts)
 * [Internet speed upgrade](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;09&#x2F;faster-internet)
-* [Cross-platform PowerShell commands in npm scripts](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2025&#x2F;09&#x2F;package-json-powershell)
 <!--END_SECTION:posts-->
