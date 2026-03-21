@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and am 
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Best of C# 14 - extension members](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;03&#x2F;csharp-extension-members)
 * [Where did this new Files app come from?](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;03&#x2F;mystery-files-app)
 * [Best of C# 14 - field keyword](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;03&#x2F;csharp-field-keyword)
 * [Upgrading Azure Database for PostgreSQL flexible server](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;02&#x2F;azure-postgresql-upgrade)
 * [DDD Melbourne 2026](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;02&#x2F;ddd-melbourne)
-* [A new year, and 5 years at SixPivot](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;02&#x2F;a-new-year)
 <!--END_SECTION:posts-->
