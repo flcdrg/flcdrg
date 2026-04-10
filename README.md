@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and am 
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Fatal error 0x8013132d debugging .NET 10 applications in Visual Studio](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;04&#x2F;vs-debugging-fatal-error)
 * [Exceptional unit tests](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;04&#x2F;exceptional-unit-tests)
 * [Delete old GitHub Actions artifacts with PowerShell](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;03&#x2F;delete-github-action-artifacts)
 * [Best of C# 14 - extension members](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;03&#x2F;csharp-extension-members)
 * [Where did this new Files app come from?](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;03&#x2F;mystery-files-app)
-* [Best of C# 14 - field keyword](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;03&#x2F;csharp-field-keyword)
 <!--END_SECTION:posts-->
