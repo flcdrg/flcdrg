@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and am 
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [I bought a MacBook Pro!](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;06&#x2F;macbookpro)
 * [New laptop options in 2026](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;05&#x2F;which-laptop)
 * [16 Mastodon client apps for iOS](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;05&#x2F;mastodon-apps)
 * [Google, what happened!!?](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;05&#x2F;google-search-indexing)
 * [Fatal error 0x8013132d debugging .NET 10 applications in Visual Studio](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;04&#x2F;vs-debugging-fatal-error)
-* [Exceptional unit tests](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;04&#x2F;exceptional-unit-tests)
 <!--END_SECTION:posts-->
