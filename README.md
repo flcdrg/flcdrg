@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and am 
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [The network switch that keeps switching more than it should](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;06&#x2F;switchy-switch)
 * [.NET Azure Function error - A connection string was not found](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;06&#x2F;azure-function-errors)
 * [I bought a MacBook Pro!](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;06&#x2F;macbookpro)
 * [New laptop options in 2026](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;05&#x2F;which-laptop)
 * [16 Mastodon client apps for iOS](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;05&#x2F;mastodon-apps)
-* [Google, what happened!!?](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;05&#x2F;google-search-indexing)
 <!--END_SECTION:posts-->
