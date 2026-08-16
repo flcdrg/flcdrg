@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and am 
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Home Assistant](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;08&#x2F;home-assistant)
 * [Solar panel problems](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;08&#x2F;solar-problems)
 * [Power Posts](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;08&#x2F;power-posts)
 * [Multiple .NET SDK versions and PowerShell on macOS with Homebrew](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;07&#x2F;dotnet-on-macos)
 * [The network switch that keeps switching more than it should](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;06&#x2F;switchy-switch)
-* [.NET Azure Function error - A connection string was not found](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;06&#x2F;azure-function-errors)
 <!--END_SECTION:posts-->
