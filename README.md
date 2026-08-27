@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and am 
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Replacing those panels](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;08&#x2F;new-solar-panels)
 * [An electric vehicle](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;08&#x2F;kia-ev5)
 * [Home Assistant](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;08&#x2F;home-assistant)
 * [Solar panel problems](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;08&#x2F;solar-problems)
 * [Power Posts](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;08&#x2F;power-posts)
-* [Multiple .NET SDK versions and PowerShell on macOS with Homebrew](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;07&#x2F;dotnet-on-macos)
 <!--END_SECTION:posts-->
