@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and am 
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Troubleshooting GitHub Package NuGet feeds with GitHub Actions](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;09&#x2F;actions-setup-dotnet)
 * [SA Power Networks meter data](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;09&#x2F;sapower)
 * [Evnex E2 Plus EV Charger](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;08&#x2F;evnex)
 * [Replacing those panels](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;08&#x2F;new-solar-panels)
 * [An electric vehicle](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;08&#x2F;kia-ev5)
-* [Home Assistant](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;08&#x2F;home-assistant)
 <!--END_SECTION:posts-->
