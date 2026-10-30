@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and am 
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Exam AZ-401: Designing and Implementing Microsoft Agentic DevOps Solutions (beta)](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;10&#x2F;az-401)
 * [Towing with a Kia EV5](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;10&#x2F;kia-ev5-towing)
 * [WebSub notifications when my blog has new content](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;10&#x2F;websub)
 * [Verify.Cli GitHub Action](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;10&#x2F;verify-cli-github-action)
 * [Troubleshooting GitHub Package NuGet feeds with GitHub Actions](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;09&#x2F;actions-setup-dotnet)
-* [SA Power Networks meter data](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;09&#x2F;sapower)
 <!--END_SECTION:posts-->
