@@ -9,9 +9,9 @@ I blog at [https://david.gardiner.net.au](https://david.gardiner.net.au) and am 
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [C# 15 - Union types](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;11&#x2F;union-types)
 * [C# 15 - Collection expression arguments](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;11&#x2F;collection-expression-arguments)
 * [.NET 11 and C# 15](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;11&#x2F;dotnet11-csharp15)
 * [My AI policy for this blog](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;11&#x2F;ai-policy)
 * [Exam AZ-401: Designing and Implementing Microsoft Agentic DevOps Solutions (beta)](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;10&#x2F;az-401)
-* [Towing with a Kia EV5](https:&#x2F;&#x2F;david.gardiner.net.au&#x2F;2026&#x2F;10&#x2F;kia-ev5-towing)
 <!--END_SECTION:posts-->
